@@ -1,10 +1,10 @@
 # IT Academy Data Analytics Bootcamp Exercise Repository
 ## MySQL Workbench
 
-### Sprint 1: Basic notions and key components in relational database design
+### Sprint 1 SQL: Basic notions and key components in relational database design
 
-### Sprint 2: Advanced SQL - Subqueries
+### Sprint 2 SQL: Advanced SQL - Subqueries
 
-### Sprint 3: Table, Indexes, and Views Management
+### Sprint 3 SQL: Table, Indexes, and Views Management
 
-### Sprint 4: Database creation and modeling
+### Sprint 4 SQL: Database creation and modeling
