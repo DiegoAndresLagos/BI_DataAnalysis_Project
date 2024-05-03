@@ -13,7 +13,7 @@
 
 ### Sprint 5 Power BI: Introduction and Indicators
 
-### Sprint 6: Visualizations and Reports with Power BI
+--### Sprint 6: Visualizations and Reports with Power BI
 
 ### Sprint 7: Python: Basic Notions and Knowledge
 
