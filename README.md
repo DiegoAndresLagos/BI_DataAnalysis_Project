@@ -9,7 +9,7 @@
 
 ### Sprint 4 SQL: Database creation and modeling
 
-## Power BI
+## Microsoft Power BI
 
 ### Sprint 5 Power BI: Introduction and Indicators
 
