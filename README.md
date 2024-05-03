@@ -8,3 +8,13 @@
 ### Sprint 3 SQL: Table, Index, and View Management
 
 ### Sprint 4 SQL: Database creation and modeling
+
+## Power BI
+
+### Sprint 5 Power BI: Introduction and Indicators
+
+### Sprint 6: Visualizations and Reports with Power BI
+
+### Sprint 7: Python: Basic Notions and Knowledge
+
+### Sprint 8: Sprint 8: Python Visualizations: Scripts in Power BI
