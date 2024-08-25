@@ -73,7 +73,8 @@ For any inquiries or additional information, please contact:
 - **LinkedIn:** www.linkedin.com/in/diego-lagos-data-analyst-bi
 
 _____________________________________________________________________________________________________________
-Spanish Version
+Versión en Español
+
 # BI_DataAnalytics_Project
 
 ## Descripción del Proyecto
