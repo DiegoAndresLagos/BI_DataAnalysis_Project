@@ -1,3 +1,81 @@
+English Version
+
+# BI_DataAnalytics_Project
+
+## Project Description
+
+The **BI_DataAnalytics_Project** is a comprehensive initiative developed within an agile framework, structured into eight sprints, with a ninth sprint dedicated to managing NoSQL databases using MongoDB. Additionally, to reinforce my knowledge in data visualization and dashboard creation with Power BI, I have included an additional mini-project focused on sales analysis within the video game industry. The primary goal of this project is to showcase my skills in data analysis and business intelligence. Throughout its development, I have applied advanced data analysis techniques using SQL, Python, Power BI, and MongoDB for ETL processes, modeling, analysis, visualization, and data interpretation to generate valuable insights that facilitate business decision-making.
+
+## Project Objectives
+
+1. **Data Cleaning and Analysis:** Apply advanced techniques for data cleaning and analysis, generating meaningful insights through descriptive analysis.
+2. **Data Manipulation:** Develop and manage datasets through efficient transformation and storage, optimizing data quality for analysis.
+3. **Proficiency in Languages:** Demonstrate advanced knowledge in SQL and practical skills in Python for data manipulation, analysis, and processing, including the execution of ETL processes.
+4. **Schema, Database, and Table Creation:** Design and build schemas, databases, and tables to serve as a foundation for structured and efficient data analysis.
+5. **Relational Data Modeling:** Implement relational data models using approaches such as star schema, snowflake schema, and galaxy schema to optimize data analysis and querying.
+6. **Data Visualization:** Use Power BI to develop interactive dashboards and create visualizations useful for business decision-making, employing Power Query and DAX for in-depth analysis.
+7. **Tool Integration:** Integrate and connect SQL, Python, and Power BI to ensure continuous data flow and effective synergy between the tools used.
+8. **Relational and Non-Relational Databases:** Gain experience in manipulating and understanding both relational and NoSQL databases, broadening perspectives and skills in data management.
+9. **Statistics for Data Science:** Apply key statistical concepts in data analysis and understanding to support evidence-based decision-making.
+
+## Project Scope
+
+This project includes a range of components designed to demonstrate my data analysis capabilities:
+
+- **Datasets:** Real datasets used for practical exercises.
+- **SQL Scripts:** Queries and scripts for data manipulation and analysis in relational databases.
+- **Python Scripts:** Python code for data cleaning, transformation, and advanced analysis.
+- **Reports:** Detailed documents presenting the results of business intelligence data analysis.
+- **Power BI Dashboards:** Power BI projects showcasing visualizations and interactive dashboards.
+
+## Technologies Used
+
+- **SQL:** Used for data modeling (Star Schema, Snowflake Schema, Galaxy Schema), as well as for queries and data manipulation in relational databases.
+- **Python:** Employed for data analysis and process automation.
+- **Power BI:** Tool for creating dashboards and interactive visualizations.
+- **Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy:** Python libraries used for data analysis and visualization, as well as for connecting Python with SQL databases.
+- **MongoDB:** Used for managing databases and queries in NoSQL environments.
+
+## Work Examples
+
+### 1. Sales Analysis
+
+- **Description:** Detailed analysis of sales to identify patterns and trends.
+- **Results:** Generation of reports showing sales trends, specific features, and strategic recommendations.
+
+### 2. Creation of Power BI Dashboards
+
+- **Description:** Development of interactive dashboards for visualizing key performance indicators and metrics.
+- **Results:** Dashboards that facilitate real-time data interpretation and decision-making.
+
+### 3. Data Transformation (ETL)
+
+- **Description:** Processing and transformation of large volumes of data for analysis.
+- **Results:** Clean and structured datasets ready for analysis.
+
+## How to Use
+
+1. **Explore the Datasets:** Review the datasets in the `datasets` folder to understand the data used.
+2. **Run SQL Scripts:** Use your SQL client to execute the scripts in the database.
+3. **Run Python Scripts:** Execute the Python scripts in your development environment to process and analyze data.
+4. **View Dashboards:** Download and open the Power BI files to explore the interactive dashboards.
+
+## Contributions
+
+This project is complete in its current state. If you have suggestions for improvements or wish to contribute, please contact the author.
+
+## Contact
+
+For any inquiries or additional information, please contact:
+
+- **Name:** Diego Lagos
+- **Email:** [diegoandres0905@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/diego-lagos-data-analyst-bi]
+
+
+
+
+Spanish Version
 # BI_DataAnalytics_Project
 
 ## Descripción del Proyecto
