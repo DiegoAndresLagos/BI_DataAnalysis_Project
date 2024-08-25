@@ -31,7 +31,7 @@ Este proyecto incluye una serie de componentes diseñados para demostrar mi capa
 - **Datasets**: Conjuntos de datos reales utilizados para los ejercicios prácticos.
 - **Scripts SQL**: Consultas y scripts para la manipulación y análisis de datos en bases de datos relacionales.
 - **Scripts Python**: Código en Python para la limpieza, transformación y análisis avanzado de datos.
-- **Informes**: Documentos detallados que presentan los resultados del análisis de datos.
+- **Informes**: Documentos detallados que presentan los resultados del análisis de datos de inteligencia empresarial.
 - **Dashboards Power BI**: Proyectos de Power BI que muestran visualizaciones y cuadros de mando interactivos.
 
 ## Tecnologías Utilizadas
@@ -47,14 +47,14 @@ Este proyecto incluye una serie de componentes diseñados para demostrar mi capa
 ### 1. Análisis de Ventas
 
 - **Descripción**: Análisis detallado de las ventas para identificar patrones y tendencias.
-- **Resultados**: Generación de informes que muestran tendencias de ventas y recomendaciones estratégicas.
+- **Resultados**: Generación de informes que muestran tendencias de ventas, carateristicas especificas y recomendaciones estratégicas.
 
 ### 2. Creación de Dashboards en Power BI
 
-- **Descripción**: Desarrollo de dashboards interactivos para la visualización de indicadores clave.
+- **Descripción**: Desarrollo de dashboards interactivos para la visualización de indicadores clave y cuadros de mando.
 - **Resultados**: Dashboards que facilitan la interpretación de datos y la toma de decisiones en tiempo real.
 
-### 3. Transformación de Datos
+### 3. Transformación de Datos (ETL)
 
 - **Descripción**: Procesamiento y transformación de grandes volúmenes de datos para el análisis.
 - **Resultados**: Conjuntos de datos limpios y estructurados listos para el análisis.
