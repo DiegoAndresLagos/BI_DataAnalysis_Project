@@ -2,16 +2,29 @@
 
 ## Descripción del Proyecto
 
-El **BI_DataAnalytics_Project** es un proyecto integral desarrollado bajo un marco agil de trabajo, el cual divide el proyecto en  8 sprint y un plus, el Sprint 9, para el manejo de bases NOSQL haciendo uso de MongoDB, este proyecto pretende demostrar mis habilidades en el análisis de datos y la inteligencia de negocios. A lo largo de este proyecto, he aplicado técnicas avanzadas de análisis de datos utilizando SQL, Python, Power BI y MongoDB para procesos de ETL, modelaje, análisis, visualización e interpretación, con el objetivo de generar insights valiosos que faciliten la toma de decisiones empresariales.
+El **BI_DataAnalytics_Project** es un proyecto integral desarrollado dentro de un marco de trabajo ágil, que se organiza en 8 sprints, con un sprint adicional (Sprint 9) enfocado en la gestión de bases de datos NoSQL utilizando MongoDB. Este proyecto tiene como objetivo demostrar mis habilidades en análisis de datos e inteligencia de negocios. A lo largo de su desarrollo, he aplicado técnicas avanzadas de análisis de datos, empleando SQL, Python, Power BI y MongoDB para procesos de ETL, modelado, análisis, visualización e interpretación de datos, con el fin de generar insights valiosos que faciliten la toma de decisiones empresariales.
 
 ## Objetivos del Proyecto
 
-1. **Depuración y Análisis de Datos**: Aplicación de técnicas para depurar y analizar datos, generando insights basados en análisis descriptivos.
-2. **Manipulación de Datos**: Creación y gestión de conjuntos de datos (datasets) mediante la transformación y almacenamiento eficiente de datos.
-3. **Dominio de Lenguajes**: Aplicación de conocimientos avanzados en SQL y habilidades básicas en Python para la manipulación y análisis de datos.
-4. **Bases de Datos Relacionales**: Experiencia en la manipulación y comprensión de bases de datos relacionales y no relacionales.
-5. **Visualización de Datos**: Uso de Power BI para desarrollar dashboards y crear visualizaciones interactivas y útiles para la toma de decisiones.
-6. **Estadística para Ciencia de Datos**: Aplicación de conceptos estadísticos para el análisis y comprensión de los datos.
+## Objetivos del Proyecto
+
+1. **Depuración y Análisis de Datos:** Aplicar técnicas avanzadas para la depuración y análisis de datos, generando insights significativos a través de análisis descriptivos.
+
+2. **Manipulación de Datos:** Desarrollar y gestionar conjuntos de datos (datasets) mediante la transformación y almacenamiento eficiente, optimizando la calidad de los datos para su análisis.
+
+3. **Dominio de Lenguajes:** Demostrar conocimientos avanzados en SQL y habilidades prácticas en Python para la manipulación, análisis y procesamiento de datos, incluyendo la ejecución de procesos ETL.
+
+4. **Creación de Esquemas, Bases y Tablas:** Diseñar y construir esquemas, bases de datos y tablas que sirvan como base para un análisis estructurado y eficiente de la información.
+
+5. **Modelado Relacional de Datos:** Implementar modelos de datos relacionales utilizando enfoques como el esquema en estrella, copo de nieve y galaxia, para optimizar el análisis y consulta de datos.
+
+6. **Visualización de Datos:** Utilizar Power BI para desarrollar dashboards interactivos y crear visualizaciones útiles para la toma de decisiones empresariales, empleando Power Query y DAX para un análisis profundo.
+
+7. **Conexión entre Herramientas:** Integrar y conectar SQL, Python y Power BI para garantizar un flujo de datos continuo y una sinergia eficaz entre las herramientas utilizadas.
+
+8. **Bases de Datos Relacionales y No Relacionales:** Adquirir experiencia en la manipulación y comprensión tanto de bases de datos relacionales como NoSQL, ampliando la perspectiva y habilidades en el manejo de datos.
+
+9. **Estadística para Ciencia de Datos:** Aplicar conceptos estadísticos clave en el análisis y comprensión de datos, apoyando la toma de decisiones basada en evidencia.
 
 ## Alcance del Proyecto
 
