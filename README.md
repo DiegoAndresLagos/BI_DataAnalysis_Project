@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-El **BI_DataAnalytics_Project** es un proyecto integral que demuestra mis habilidades en el análisis de datos y la inteligencia de negocios. A lo largo de este proyecto, he aplicado técnicas avanzadas de análisis de datos utilizando SQL, Python y Power BI para transformar, analizar e interpretar datos, con el objetivo de generar insights valiosos que faciliten la toma de decisiones empresariales.
+El **BI_DataAnalytics_Project** es un proyecto integral desarrollado bajo un marco agil, el cual divide el proyecto en  8 sprint y un plus para el manejo de bases NOSQL en el Sprint 9 haciendo uso de MongoDB, el cual demuestra mis habilidades en el análisis de datos y la inteligencia de negocios. A lo largo de este proyecto, he aplicado técnicas avanzadas de análisis de datos utilizando SQL, Python, Power BI y MongoDB para transformar, analizar e interpretar datos, con el objetivo de generar insights valiosos que faciliten la toma de decisiones empresariales.
 
 ## Objetivos del Proyecto
 
@@ -86,14 +86,11 @@ Este proyecto incluye una serie de componentes diseñados para demostrar mi capa
 
 Este proyecto está completo en su estado actual. Si tienes sugerencias para mejoras o deseas contribuir, por favor contacta al autor.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
 
 Para cualquier consulta o información adicional, por favor, contacta a:
 
-- **Nombre**: [Tu Nombre]
-- **Email**: [tu-email@example.com]
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **Nombre**: Diego Lagos
+- **Email**: [diegoandres0905@gmail.com]
+- **LinkedIn**: [Tu Perfil de LinkedIn](www.linkedin.com/in/diego-lagos-data-analyst-bi)
