@@ -152,5 +152,5 @@ Este proyecto está completo en su estado actual. Si tienes sugerencias para mej
 Para cualquier consulta o información adicional, por favor, contacta a:
 
 - **Nombre**: Diego Lagos
-- **Email**: [diegoandres0905@gmail.com]
-- **LinkedIn**: (www.linkedin.com/in/diego-lagos-data-analyst-bi)
+- **Email**: diegoandres0905@gmail.com
+- **LinkedIn**: www.linkedin.com/in/diego-lagos-data-analyst-bi
