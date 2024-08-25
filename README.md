@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-El **BI_DataAnalytics_Project** es un proyecto integral desarrollado dentro de un marco de trabajo ágil, que se organiza en 8 sprints, con un sprint adicional (Sprint 9) enfocado en la gestión de bases de datos NoSQL utilizando MongoDB. Este proyecto tiene como objetivo demostrar mis habilidades en análisis de datos e inteligencia de negocios. A lo largo de su desarrollo, he aplicado técnicas avanzadas de análisis de datos, empleando SQL, Python, Power BI y MongoDB para procesos de ETL, modelado, análisis, visualización e interpretación de datos, con el fin de generar insights valiosos que faciliten la toma de decisiones empresariales.
+El **BI_DataAnalytics_Project** es un proyecto integral desarrollado dentro de un marco de trabajo ágil, que se organiza en 8 sprints, un sprint (Sprint 9) enfocado en la gestión de bases de datos NoSQL utilizando MongoDB con su bases independientes y un adicionalmente para reforzar mis conocimientos en visualización de datos y creación de cuadros de mando con Power BI un miniproyecto de ventas de la indutria de videojuegos. Este proyecto globalmente tiene como objetivo demostrar mis habilidades en análisis de datos e inteligencia de negocios. A lo largo de su desarrollo, he aplicado técnicas avanzadas de análisis de datos, empleando SQL, Python, Power BI y MongoDB para procesos de ETL, modelado, análisis, visualización e interpretación de datos, con el fin de generar insights valiosos que faciliten la toma de decisiones empresariales.
 
 ## Objetivos del Proyecto
 
@@ -64,7 +64,7 @@ Este proyecto incluye una serie de componentes diseñados para demostrar mi capa
 1. **Explora los Datasets**: Consulta los datasets en la carpeta `datasets` para entender los datos utilizados.
 2. **Ejecuta Scripts SQL**: Usa tu cliente SQL para ejecutar los scripts en la base de datos.
 3. **Corre los Scripts Python**: Ejecuta los scripts Python en tu entorno de desarrollo para procesar y analizar datos.
-4. **Visualiza los Dashboards**: Abre los archivos de Power BI y explora los dashboards interactivos.
+4. **Visualiza los Dashboards**: Descarga y abre los archivos de Power BI para explorar los dashboards interactivos.
 
 ## Contribuciones
 
