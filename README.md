@@ -6,8 +6,6 @@ El **BI_DataAnalytics_Project** es un proyecto integral desarrollado dentro de u
 
 ## Objetivos del Proyecto
 
-## Objetivos del Proyecto
-
 1. **Depuración y Análisis de Datos:** Aplicar técnicas avanzadas para la depuración y análisis de datos, generando insights significativos a través de análisis descriptivos.
 
 2. **Manipulación de Datos:** Desarrollar y gestionar conjuntos de datos (datasets) mediante la transformación y almacenamiento eficiente, optimizando la calidad de los datos para su análisis.
