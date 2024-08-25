@@ -47,34 +47,6 @@ Este proyecto incluye una serie de componentes diseñados para demostrar mi capa
 - **Descripción**: Procesamiento y transformación de grandes volúmenes de datos para el análisis.
 - **Resultados**: Conjuntos de datos limpios y estructurados listos para el análisis.
 
-## Instalación y Configuración
-
-1. **Clona el Repositorio**
-
-    ```bash
-    git clone https://github.com/tu-usuario/BI_DataAnalytics_Project.git
-    ```
-
-2. **Navega al Directorio del Proyecto**
-
-    ```bash
-    cd BI_DataAnalytics_Project
-    ```
-
-3. **Instala las Dependencias de Python**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Configura la Base de Datos**
-
-    Sigue las instrucciones en el archivo `config.md` para conectar tu base de datos SQL.
-
-5. **Abre los Dashboards**
-
-    Utiliza Power BI Desktop para abrir los archivos `.pbix` y explorar los dashboards interactivos.
-
 ## Cómo Usar
 
 1. **Explora los Datasets**: Consulta los datasets en la carpeta `datasets` para entender los datos utilizados.
