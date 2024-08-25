@@ -69,8 +69,8 @@ This project is complete in its current state. If you have suggestions for impro
 For any inquiries or additional information, please contact:
 
 - **Name:** Diego Lagos
-- **Email:** [diegoandres0905@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/diego-lagos-data-analyst-bi]
+- **Email:** diegoandres0905@gmail.com
+- **LinkedIn:** www.linkedin.com/in/diego-lagos-data-analyst-bi
 
 
 
