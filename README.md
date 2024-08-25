@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-El **BI_DataAnalytics_Project** es un proyecto integral desarrollado bajo un marco agil, el cual divide el proyecto en  8 sprint y un plus, el Sprint 9, para el manejo de bases NOSQL haciendo uso de MongoDB, este proyecto pretende demostrar mis habilidades en el análisis de datos y la inteligencia de negocios. A lo largo de este proyecto, he aplicado técnicas avanzadas de análisis de datos utilizando SQL, Python, Power BI y MongoDB para transformar, analizar e interpretar datos, con el objetivo de generar insights valiosos que faciliten la toma de decisiones empresariales.
+El **BI_DataAnalytics_Project** es un proyecto integral desarrollado bajo un marco agil de trabajo, el cual divide el proyecto en  8 sprint y un plus, el Sprint 9, para el manejo de bases NOSQL haciendo uso de MongoDB, este proyecto pretende demostrar mis habilidades en el análisis de datos y la inteligencia de negocios. A lo largo de este proyecto, he aplicado técnicas avanzadas de análisis de datos utilizando SQL, Python, Power BI y MongoDB para transformar, analizar e interpretar datos, con el objetivo de generar insights valiosos que faciliten la toma de decisiones empresariales.
 
 ## Objetivos del Proyecto
 
