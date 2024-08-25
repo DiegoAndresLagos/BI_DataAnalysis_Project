@@ -93,4 +93,4 @@ Para cualquier consulta o información adicional, por favor, contacta a:
 
 - **Nombre**: Diego Lagos
 - **Email**: [diegoandres0905@gmail.com]
-- **LinkedIn**: [Tu Perfil de LinkedIn](www.linkedin.com/in/diego-lagos-data-analyst-bi)
+- **LinkedIn**: (www.linkedin.com/in/diego-lagos-data-analyst-bi)
