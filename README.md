@@ -72,9 +72,7 @@ For any inquiries or additional information, please contact:
 - **Email:** diegoandres0905@gmail.com
 - **LinkedIn:** www.linkedin.com/in/diego-lagos-data-analyst-bi
 
-
-
-
+_____________________________________________________________________________________________________________
 Spanish Version
 # BI_DataAnalytics_Project
 
