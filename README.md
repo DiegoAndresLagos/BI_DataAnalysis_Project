@@ -25,7 +25,7 @@ Este proyecto incluye una serie de componentes diseñados para demostrar mi capa
 
 ## Tecnologías Utilizadas
 
-- **SQL**: Para Modelado (Estrella/Copo de nieve/galaxia), consultas y manipulación de datos en bases de datos relacionales.
+- **SQL**: Para modelado (Estrella/Copo de nieve/Galaxia), consultas y manipulación de datos en bases de datos relacionales.
 - **Python**: Para el análisis de datos y la automatización de procesos.
 - **Power BI**: Para la creación de dashboards y visualizaciones interactivas.
 - **Pandas, NumPy, Matplotlib, Seaborn**: Librerías de Python utilizadas para el análisis y visualización de datos.
