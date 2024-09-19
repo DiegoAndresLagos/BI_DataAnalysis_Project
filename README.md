@@ -4,7 +4,7 @@ English Version
 
 ## Project Description
 
-The **BI_DataAnalytics_Project** is a comprehensive initiative developed within an **agile framework**, structured into eight sprints, with a ninth sprint dedicated to managing NoSQL databases using MongoDB. Additionally, to reinforce my knowledge in data visualization and dashboard creation with Power BI, I have included an additional mini-project focused on sales analysis** within the video game industry. The primary goal of this project is to showcase my skills in data analysis and business intelligence. Throughout its development, I have applied advanced data analysis techniques using **SQL, Python, Power BI, and MongoDB** for ETL processes, modeling, analysis, visualization, and data interpretation to generate valuable insights that facilitate business decision-making.
+The **BI_DataAnalytics_Project** is a comprehensive initiative developed within an **agile framework**, structured into eight sprints, with a ninth sprint dedicated to managing NoSQL databases using MongoDB. Additionally, to reinforce my knowledge in data visualization and dashboard creation with Power BI, I have included an additional mini-project focused on sales analysis within the video game industry. The primary goal of this project is to showcase my skills in data analysis and business intelligence. Throughout its development, I have applied advanced data analysis techniques using **SQL, Python, Power BI, and MongoDB** for ETL processes, modeling, analysis, visualization, and data interpretation to generate valuable insights that facilitate business decision-making.
 
 ## Project Objectives
 
